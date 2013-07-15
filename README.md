@@ -26,5 +26,5 @@ Edit main.py to your liking. It is pretty straight forward.
 
 Usage
 =======
-    python screen ./main.py
+    screen python ./main.py
 That's it the server should run and listen for a POST request from github.
